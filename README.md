@@ -2,7 +2,7 @@
 
 <img width="810" height="556" alt="image" src="https://github.com/user-attachments/assets/0476fc4c-8ac0-4c13-a569-947b27d675c7" />
 
-> A implementation of Logistic Regression — built entirely without NumPy, PyTorch, or any ML library. Covers Binomial & Multinomial Logistic Regression, F1 Score, AUC-ROC, and AUC-PR.
+> A implementation of Logistic Regression — Covers Binomial & Multinomial Logistic Regression, F1 Score, AUC-ROC, and AUC-PR.
 
 ---
 
